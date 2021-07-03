@@ -1,0 +1,41 @@
+header h2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+header{
+    background-color: rgb(3, 201, 201);
+    padding: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    
+}
+nav a:hover {color: rgb(247, 244, 103);
+}
+
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+.image img{
+    width: 33%;
+}
+
+.image h2{
+    margin-left: 45%;
+    width: 150px;
+    font-size: 30px;
+    text-align: center;
+    border: rgb(3, 201, 201) 2px solid;
+    
+}
+
+.image{
+    padding: 10px;
+}
